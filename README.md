@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido como parte da lista de exercícios do curso de pro
 
 # Objetivo
 
-- Criar uma landing page que colete os dados de peso e altura do usuário e retorne o nível de IMC de acordo com os dados da Organização Mundial de Saúde (OMS).
+- Criar uma landing page que colete os dados de peso e altura do usuário e exibir o nível de IMC de acordo com os dados da Organização Mundial de Saúde (OMS).
 
 # Especificações
 
@@ -20,5 +20,5 @@ Esse projeto foi desenvolvido como parte da lista de exercícios do curso de pro
 
 # Contéudo
 
-
+![Modelo](https://github.com/gabrielbelo2007/Calculadora-de-IMC/blob/bc92ccb8e3d2bc8c913ea817a2dec2173de5a866/Calculadora%20de%20IMC.png)
 
